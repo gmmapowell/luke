@@ -1,0 +1,15 @@
+li {
+	list-style-type: none;
+}
+
+.poetry {
+	font-style: italic;
+	margin-block-start: 0px;
+	margin-block-end: 0px;
+}
+
+.footnote-number, .footnote-ref {
+	vertical-align: super;
+	font-size: .83em;
+	line-height: 1.0em;
+}
